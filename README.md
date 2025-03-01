@@ -29,7 +29,9 @@ The main interface looks like this:
 
 #### 4️⃣ Side Tools
 - **🔨 MD5 Generator**: Input text and instantly get its MD5 hash.
-- **🔎 Regular Expression Search**: Use advanced syntax (e.g., `^abc\d{3}`) to search for passwords and find out what the corresponding MD5 values look like.
+- **🔎 Regular Expression Search**: Use advanced syntax (e.g., `^e10a`) to search for passwords and find out what the corresponding MD5 values look like.
+- ![image](https://github.com/user-attachments/assets/8c57095d-d45b-420a-bb6c-017e449352eb)
+
 - **📊 Real-time Progress**: Displays the password fragment that is currently being attempted.
 
 ### 🚀 Quick Start Guide
