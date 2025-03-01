@@ -17,6 +17,8 @@ MD5 Cracker - Modern GUI application for hash decryption using dictionary attack
 **🔍 MD5破解器**  
 👉 怎么用：  
 1. 把MD5值粘贴进去
+
+2. 
 2.选择你想使用的密码字典
 3. ![image](https://github.com/user-attachments/assets/71d34aa3-32bb-4bff-aad4-80e7833f9f85)
 4. 点"开始破解"坐等结果！
