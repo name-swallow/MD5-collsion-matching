@@ -750,4 +750,7 @@ class Function:
         self.ui.progress_bar.setFormat("准备就绪")
         self.ui.time_remaining.setText("预计剩余时间: --:--:--")
         self.ui.progress_label.setText("0%")
+        self.ui.md5_output.clear()
+        self.ui.md5_input.clear()
+
 
