@@ -5,17 +5,20 @@ MD5 Cracker - A modern GUI application for hash decryption using dictionary atta
 
 #### 1️⃣ Main Interface
 The main interface looks like this:
-![image](https://github.com/user-attachments/assets/872108d5-95a1-421f-b38c-0c7a09dfe912)
-![image](https://github.com/user-attachments/assets/40b5a4bf-35bb-40af-a6ad-6ae59e3b25e5)
+![image](https://github.com/user-attachments/assets/c831681e-ff8f-4089-b0b9-195f4afa4036)
+![image](https://github.com/user-attachments/assets/9731355c-89e1-4647-a6c8-db6c4ebdf1ac)
+
 
 #### 2️⃣ Core Function
 **🔍 MD5 Cracker**
 👉 How to use:
 1. Paste the MD5 value into the input field.
 2. Select the password dictionary you want to use.
-3. ![image](https://github.com/user-attachments/assets/71d34aa3-32bb-4bff-aad4-80e7833f9f85)
+3. ![image](https://github.com/user-attachments/assets/d6e5a614-388a-435c-9437-0b7d9133950f)
+
 4. Click the "Start Cracking" button and wait for the result!
-5. ![image](https://github.com/user-attachments/assets/f00f72be-3ced-44d2-9bbb-6575ab659609)
+5. ![image](https://github.com/user-attachments/assets/eb9a253f-2784-4dcc-85a6-af81eb190369)
+
 
 **✨ Highlights**:
 - The progress bar is animated! It can also display the estimated remaining time ⏳.
@@ -29,8 +32,9 @@ The main interface looks like this:
 
 #### 4️⃣ Side Tools
 - **🔨 MD5 Generator**: Input text and instantly get its MD5 hash.
-- **🔎 Regular Expression Search**: Use advanced syntax (e.g., `^e10a`) to search for passwords and find out what the corresponding MD5 values look like.
-- ![image](https://github.com/user-attachments/assets/8c57095d-d45b-420a-bb6c-017e449352eb)
+- **🔎 Regular Expression Search**: Use advanced syntax (e.g., `^25d5`) to search for passwords and find out what the corresponding MD5 values look like.
+- ![image](https://github.com/user-attachments/assets/9f1eb5a6-6cc2-476a-8132-ebaa5fdc6e35)
+
 
 - **📊 Real-time Progress**: Displays the password fragment that is currently being attempted.
 
