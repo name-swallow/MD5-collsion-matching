@@ -753,4 +753,3 @@ class Function:
         self.ui.md5_output.clear()
         self.ui.md5_input.clear()
 
-
