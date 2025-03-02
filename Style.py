@@ -153,7 +153,7 @@ class MD5CrackerPro(QWidget):
         )
         # 标题行
         title_layout = QHBoxLayout()
-        title = QLabel("量子MD5破解工作站")
+        title = QLabel("MD5破解工作站")
         title.setObjectName("mainTitle")
         title_layout.addWidget(title)
         self.sidebar_toggle = self.create_icon_button("◀", self.tog.toggle)  # 初始展开状态
